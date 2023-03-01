@@ -1,5 +1,6 @@
-==== PHYSIQUE ====
-Species name: Strillian.
+# Strillian behaviour and physique
+---
+### Physique
 Figure: bipedal, similar to a dragon, they are quite slender, with long and thick hands at the end of their long and slim arms, large ears
 Skin: Pitch-black scales with spots on their back of very bright shades of blue and pink. The Strillian have an average height of 190cm (6'3) with a STANDARD deviation of about ± 32cm (about one foot).
 Due to their extremely advanced
