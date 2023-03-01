@@ -1,4 +1,5 @@
 # Strillian behaviour and physique
+### We will be going over how the Strillian function and behave as a species in this file.
 ---
 ### Physique
 Figure: bipedal, similar to a dragon, they are quite slender, with long and thick hands at the end of their long and slim arms, large ears
@@ -6,9 +7,9 @@ Skin: Pitch-black scales with spots on their back of very bright shades of blue 
 Due to their extremely advanced
 They are very intelligent beings.
 What makes them special (biological): they can shift around their internal organs and certain body parts, for example, they can move their wings to their arms. Their blood is a golden color.
-What makes them special (not biological): nanotechnological implants, allowing them to grow multiple limbs or cover their existing limbs in the nanomachines, allowing them to attach and use an array of modules, including speakers, displays, and even heating elements (so they’re perfect to snuggle with)
-
-==== EMOTIONS ====
+What makes them special (not biological): nanotechnological implants, allowing them to grow multiple limbs or cover their existing limbs in the nanomachines, allowing them to attach and use an array of modules, including speakers, displays, and even heating elements (so they’re perfect to snuggle with).
+---
+### Emotions
 The Strillian have pitch-black scales, which can change color if they want them to.
 They have trouble with feeling the following emotions: embarrassment, anger, and disgust, however, they can be learned to experience these emotions.
 However, for an unknown reason, they can still naturally experience sadness without having to learn this.
@@ -21,39 +22,37 @@ A Strillian starts off with only its standard range of emotions, it is not requi
 By observing how other organisms react they can draw connections between emotions, if they for example experience certain events the same way. But it also allows them to learn new emotions, for example, if a Strillian is friends with a human, and the Strillian makes a mistake, causing the human to be angry, then the Strillian will learn from this interaction. After observing certain emotions enough they will gain an understanding of how it works and eventually begin experiencing it themselves as well.
 
 Emotions (on their hands):
-Black 		=> 	Neutral
-White 		=> 	Ecstatic, excited
-Grey 		=> 	Confused
-Crimson 	=> 	Terrified (ears will also droop)
-Red 		=> 	In pain
-Light red	=>	Annoyed
-Pink 		=> 	Curious
-Purple 		=> 	Adoration
-Light blue 	=> 	Boredom
-Cyan 		=> 	Disappointed
-Dark blue 	=> 	Sadness
-Soft purple 	=> 	Comfort
-Yellow 		=> 	Happy
-Orange 		=> 	Determined
-Green 		=> 	Hungry
-Rainbow		=>	In love
+Black 		=> 	Neutral  
+White 		=> 	Ecstatic, excited  
+Grey 		=> 	Confused  
+Crimson 	=> 	Terrified (ears will also droop)  
+Red 		=> 	In pain  
+Light red	=>	Annoyed  
+Pink 		=> 	Curious  
+Purple 		=> 	Adoration  
+Light blue 	=> 	Boredom  
+Cyan 		=> 	Disappointed  
+Dark blue 	=> 	Sadness  
+Soft purple 	=> 	Comfort  
+Yellow 		=> 	Happy  
+Orange 		=> 	Determined  
+Green 		=> 	Hungry  
+Rainbow		=>	In love  
 
-
-Emotions (on their wings):
-Black 		=>	Neutral
-Crimson		=>	Fury, will start a fight
-Red		=>	Anger
-Teal		=>	Shame, embarrassment
-Green		=>	Disgust
+Emotions (on their wings):  
+Black 		=>	Neutral  
+Crimson		=>	Fury, will start a fight  
+Red		=>	Anger  
+Teal		=>	Shame, embarrassment  
+Green		=>	Disgust  
 
 Most Strillian are perfectly fine with their emotions being visible to everyone, but some are not as comfortable with the idea, in which case some choose to cover their hands with large gloves.
 
-
-==== BEHAVIOUR ====
+### Behaviour
 The Strillian are a very curious species and have been observed to show an almost uncanny interest in other lifeforms, trying to understand anything that is sentient and can be communicated with.
 On the topic of communication, due to their relation to nanotechnology, the Strillian don’t necessarily need to communicate normally, instead, they can communicate among themselves using their implants, however, they prefer making small computer-like beeping noises as a way of telling other Strillian “hey, we’re talking”.
 This also comes in handy when trying to start a bond with organisms that are not Strillian, if they listen to a small amount of an organism’s language or speech, the implants will put together an understanding of the language, allowing them to speak said language.
 They have been documented to completely have learned human speech, due to their curious nature they quickly started to learn English, after which most Strillian were satisfied, however, a group of Strillian set out to learn every human language. (Avery, the character I’ll be making with this species, will NOT be a part of this group, people who use this species to make their character will be allowed to choose if their character is part of this group.)
 
 
-The Strillian are an open species made by Bit-Dev#8888
+### The Strillian are an open species made by Bit-Dev#8888
