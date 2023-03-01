@@ -1,15 +1,17 @@
 # Strillian behaviour and physique
-### We will be going over how the Strillian function and behave as a species in this file.
+### We will be going over how the Strillian function and behave as a species in this file
+
 ---
-### Physique
+## Physique
 Figure: bipedal, similar to a dragon, they are quite slender, with long and thick hands at the end of their long and slim arms, large ears
 Skin: Pitch-black scales with spots on their back of very bright shades of blue and pink. The Strillian have an average height of 190cm (6'3) with a STANDARD deviation of about ± 32cm (about one foot).
 Due to their extremely advanced
 They are very intelligent beings.
 What makes them special (biological): they can shift around their internal organs and certain body parts, for example, they can move their wings to their arms. Their blood is a golden color.
 What makes them special (not biological): nanotechnological implants, allowing them to grow multiple limbs or cover their existing limbs in the nanomachines, allowing them to attach and use an array of modules, including speakers, displays, and even heating elements (so they’re perfect to snuggle with).
+
 ---
-### Emotions
+## Emotions
 The Strillian have pitch-black scales, which can change color if they want them to.
 They have trouble with feeling the following emotions: embarrassment, anger, and disgust, however, they can be learned to experience these emotions.
 However, for an unknown reason, they can still naturally experience sadness without having to learn this.
