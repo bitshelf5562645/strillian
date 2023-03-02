@@ -20,7 +20,7 @@ The Strillian have an average height of 190cm (6'3) with a standard deviation of
 
 ### Mortality
 Due to their impressive advancements in the realm of technology, it seems that the Strillian are unable to die of natural causes, as the nanomachines in their system pick up on any potential threats before quickly nutralizing them, unless they chose not to keep their nanomachines, some believe a natural life is a good life and thus choose to have them removed, the lifespan of a Strillian without nanomachines is on average 104 years, with a standard deviation of ± 13 years.  
-It is also completely possible for them to die, they are not invincible and can still be victims of events such as murder or accidents.
+It is also still completely possible for them to die with nanomachines they are not invincible and can still be victims of events such as murder or accidents.
 
 ### Maturing
 TEXT 
