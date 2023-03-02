@@ -2,15 +2,39 @@
 ### We will be going over how the Strillian function and behave as a species in this file
 
 ---
+Make links to specific parts here  
+text  
+text  
+text  
+
+---
+
 ## Biology / Physique
-Figure: bipedal, similar to a dragon, they are quite slender, with long and thick hands at the end of their long and slim arms, large ears.  
-The Strillian are an anthropomorphic species with qualities similar to those of dragons. They
-They have an extremely versatile and long tail they can use to grab and manipulate objects (DESC COULD BE LONGER). 
-Skin: Pitch-black scales with spots on their back of very bright shades of blue and pink. The Strillian have an average height of 190cm (6'3) with a standard deviation of about ± 32cm (about one foot).  
+
+### Appearance
+The Strillian are an anthropomorphic species with body parts similar to those of dragons, boasting not only an extremely versatile and long tail they can use to grab and manipulate objects, but also gorgeous and large wings.
+Their ears are rather large when compared to other species similar to them.  
+They are rather slender, having a pretty slim, but not too slim body for their height.  
+They have pitch-black scales, which can change color if and when they want them to, their back is covered in very tiny bright blue and bright pink spots, giving an almost galaxy-like look.    
+The Strillian have an average height of 190cm (6'3) with a standard deviation of about ± 32cm (about one foot), but since this is a standard deviation it is still possible for a Strillian to be taller or shorter.  
+
+### Mortality
 Due to their impressive advancements in the realm of technology, it seems that the Strillian are unable to die of natural causes, as the nanomachines in their system pick up on any potential threats before quickly nutralizing them, unless they chose not to keep their nanomachines, some believe a natural life is a good life and thus choose to get have them removed, the lifespan of a Strillian without nanomachines is on average 104 years, with a standard deviation of ± 13 years.
 It is also completely possible for them to die, they are not invincible and can still be victims of events such as murder or accidents.
+
+### Odd abilities
 For a reason that is still unknown they can shift around their organs and body parts, for example, they can move their wings to their arms, or move their stomach to somewhere else inside of their body, it is speculated that this once was a necessity for survival when they were still evolving as an intelligent species.  
 Their blood is a golden color.
+
+### Weaknessess and shortcomings
+text  
+text  
+text  
+
+### Strengths and advantages
+text  
+text  
+text  
 
 ---
 ## Behaviour
@@ -20,8 +44,7 @@ This also comes in handy when trying to start a bond with organisms that are not
 They have been documented to completely have learned human speech, due to their curious nature they quickly started to learn English, after which most Strillian were satisfied, however, a group of Strillian set out to learn every human language. (Avery, the character I’ll be making with this species, will NOT be a part of this group, people who use this species to make their character will be allowed to choose if their character is part of this group.)
 
 ---
-## Emotions
-The Strillian have pitch-black scales, which can change color if they want them to.  
+## Emotions 
 They have trouble with feeling the following emotions: embarrassment, anger, and disgust, however, they can be learned to experience these emotions.  
 However, for an unknown reason, they can still naturally experience sadness without having to learn this.  
 In addition to this, the scales on their hands represent how they’re currently feeling.
