@@ -97,7 +97,7 @@ By observing how other organisms react they can draw connections between emotion
   <dt>Rainbow</dt>
   <dd>In love</dd>
 </dl>
-Most Strillian are perfectly fine with their emotions being visible to everyone, but some are not as comfortable with the idea, in which case some choose to cover their hands with large gloves.  
+
 
 ### Colors and their emotions: Wings  
 <dl>
@@ -116,6 +116,7 @@ Most Strillian are perfectly fine with their emotions being visible to everyone,
   <dt>Green</dt>
   <dd>Disgust</dd>
 </dl>
+Most Strillian are perfectly fine with their emotions being visible to everyone, but some are not as comfortable with the idea, in which case some choose to cover their hands with large gloves.  
 
 ---
 ## The Nanomachines
