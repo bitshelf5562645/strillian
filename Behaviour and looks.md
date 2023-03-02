@@ -32,85 +32,90 @@ How do they learn these emotions?
 A Strillian starts off with only its standard range of emotions, it is not required for them to learn the "unknown" emotions for them to live a fulfilling life, however, due to their curious nature, at least a third of them tend to eventually gain these emotions during their life as they interact with organisms from a species unlike theirs.
 By observing how other organisms react they can draw connections between emotions, if they for example experience certain events the same way. But it also allows them to learn new emotions, for example, if a Strillian is friends with a human, and the Strillian makes a mistake, causing the human to be angry, then the Strillian will learn from this interaction. After observing certain emotions enough they will gain an understanding of how it works and eventually begin experiencing it themselves as well.
 
-Emotions (on their hands):  
+### Colors and their emotions: Hands
 <dl>
   <dt>Black</dt>
   <dd>Neutral</dd>
 
-  <dt>Black</dt>
-  <dd>Neutral</dd>
+  <dt>White</dt>
+  <dd>Ecstatic, excited</dd>
 
-  <dt>Black</dt>
-  <dd>Neutral</dd>
+  <dt>Grey</dt>
+  <dd>Confused</dd>
 
-  <dt>Black</dt>
-  <dd>Neutral</dd>
+  <dt>Crimson</dt>
+  <dd>Scared, terrified</dd>
 
-  <dt>Black</dt>
-  <dd>Neutral</dd>
+  <dt>Flashing Crimson and light red</dt>
+  <dd>Fury, ready to fight</dd>
 
-  <dt>Black</dt>
-  <dd>Neutral</dd>
+  <dt>Red</dt>
+  <dd>Pained</dd>
 
-  <dt>Black</dt>
-  <dd>Neutral</dd>
+  <dt>Light red</dt>
+  <dd>Annoyed, irritated</dd>
 
-  <dt>Black</dt>
-  <dd>Neutral</dd>
+  <dt>Pink</dt>
+  <dd>Curious</dd>
 
-  <dt>Black</dt>
-  <dd>Neutral</dd>
+  <dt>Purple</dt>
+  <dd>Adoration</dd>
 
-  <dt>Black</dt>
-  <dd>Neutral</dd>
+  <dt>Soft purple</dt>
+  <dd>Comfort</dd>
 
-  <dt>Black</dt>
-  <dd>Neutral</dd>
+  <dt>Light blue</dt>
+  <dd>Boredom</dd>
 
-  <dt>Black</dt>
-  <dd>Neutral</dd>
+  <dt>Blue</dt>
+  <dd>Sadness</dd>
 
-  <dt>Black</dt>
-  <dd>Neutral</dd>
+  <dt>Teal</dt>
+  <dd>Flushed</dd>
 
-  <dt>Black</dt>
-  <dd>Neutral</dd>
+  <dt>Dark blue</dt>
+  <dd>Disappointment</dd>
 
-  <dt>Black</dt>
-  <dd>Neutral</dd>
+  <dt>Yellow</dt>
+  <dd>Happiness</dd>
 
-  <dt>Black</dt>
-  <dd>Neutral</dd>
+  <dt>Orange</dt>
+  <dd>Determination</dd>
 
-  <dt>Black</dt>
-  <dd>Neutral</dd>
+  <dt>Green</dt>
+  <dd>Hunger</dd>
+
+  <dt>Bronze</dt>
+  <dd>Worries, nervous</dd>
+
+  <dt>Silver</dt>
+  <dd>Tired, sleepy</dd>
+
+  <dt>Gold</dt>
+  <dd>Satisfaction</dd>
+
+  <dt>Rainbow</dt>
+  <dd>In love</dd>
 </dl>
+Most Strillian are perfectly fine with their emotions being visible to everyone, but some are not as comfortable with the idea, in which case some choose to cover their hands with large gloves.  
 
-White 		=> 	Ecstatic, excited  
-Grey 		=> 	Confused  
-Crimson 	=> 	Terrified (ears will also droop)  
-Red 		=> 	In pain  
-Light red	=>	Annoyed  
-Pink 		=> 	Curious  
-Purple 		=> 	Adoration  
-Light blue 	=> 	Boredom  
-Cyan 		=> 	Disappointed  
-Dark blue 	=> 	Sadness  
-Soft purple 	=> 	Comfort  
-Yellow 		=> 	Happy  
-Orange 		=> 	Determined  
-Green 		=> 	Hungry  
-Soft red => tired
-Rainbow		=>	In love  
+### Colors and their emotions: Wings  
+<dl>
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+  
+  <dt>Crimson</dt>
+  <dd>Fury, ready to fight</dd>
 
-Emotions (on their wings):  
-Black 		=>	Neutral  
-Crimson		=>	Fury, will start a fight  
-Red		=>	Anger  
-Teal		=>	Shame, embarrassment  
-Green		=>	Disgust  
+  <dt>Red</dt>
+  <dd>Anger</dd>
 
-Most Strillian are perfectly fine with their emotions being visible to everyone, but some are not as comfortable with the idea, in which case some choose to cover their hands with large gloves.
+  <dt>Teal</dt>
+  <dd>Ashamed</dd>
+
+  <dt>Green</dt>
+  <dd>Disgust</dd>
+</dl>
 
 ---
 ## The Nanomachines
