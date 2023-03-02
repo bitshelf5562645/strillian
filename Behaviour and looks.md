@@ -12,14 +12,14 @@ text
 ## Biology / Physique
 
 ### Appearance
-The Strillian are an anthropomorphic species with body parts similar to those of dragons, boasting not only an extremely versatile and long tail they can use to grab and manipulate objects, but also gorgeous and large wings.
+The Strillian are an anthropomorphic species with body parts similar to those of dragons, boasting not only an extremely versatile and long tail they can use to grab and manipulate objects, but also gorgeous and large wings.  
 Their ears are rather large when compared to other species similar to them.  
-They are rather slender, having a pretty slim, but not too slim body for their height.  
-They have pitch-black scales, which can change color if and when they want them to, their back is covered in very tiny bright blue and bright pink spots, giving an almost galaxy-like look.    
+They are quite slender, having a pretty slim, but not too slim body for their height.  
+They have pitch-black scales, which can change color if and when they want them to, their back is covered in very tiny bright blue and bright pink spots, giving an almost galaxy-like look.  
 The Strillian have an average height of 190cm (6'3) with a standard deviation of about ± 32cm (about one foot), but since this is a standard deviation it is still possible for a Strillian to be taller or shorter.  
 
 ### Mortality
-Due to their impressive advancements in the realm of technology, it seems that the Strillian are unable to die of natural causes, as the nanomachines in their system pick up on any potential threats before quickly nutralizing them, unless they chose not to keep their nanomachines, some believe a natural life is a good life and thus choose to get have them removed, the lifespan of a Strillian without nanomachines is on average 104 years, with a standard deviation of ± 13 years.
+Due to their impressive advancements in the realm of technology, it seems that the Strillian are unable to die of natural causes, as the nanomachines in their system pick up on any potential threats before quickly nutralizing them, unless they chose not to keep their nanomachines, some believe a natural life is a good life and thus choose to get have them removed, the lifespan of a Strillian without nanomachines is on average 104 years, with a standard deviation of ± 13 years.  
 It is also completely possible for them to die, they are not invincible and can still be victims of events such as murder or accidents.
 
 ### Odd abilities
