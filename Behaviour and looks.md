@@ -12,7 +12,7 @@ text
 ## Biology / Physique
 
 ### Appearance
-The Strillian are an anthropomorphic species with body parts similar to those of dragons, boasting not only an extremely versatile and long tail they can use to grab and manipulate objects, but also gorgeous and large wings.  
+The Strillian are an anthropomorphic species with body parts similar to those of dragons, boasting not only an extremely versatile and long tail they can use to grab and manipulate objects, but also large gorgeous wings.  
 Their ears are rather large when compared to other species similar to them.  
 They are quite slender, having a pretty slim, but not too slim body for their height.  
 They have pitch-black scales, which can change color if and when they want them to, their back is covered in very tiny bright blue and bright pink spots, giving an almost galaxy-like look.  
