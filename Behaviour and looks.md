@@ -6,16 +6,18 @@
 Figure: bipedal, similar to a dragon, they are quite slender, with long and thick hands at the end of their long and slim arms, large ears.  
 The Strillian are an anthropomorphic species with qualities similar to those of dragons. They
 They have an extremely versatile and long tail they can use to grab and manipulate objects (DESC COULD BE LONGER). 
-Skin: Pitch-black scales with spots on their back of very bright shades of blue and pink. The Strillian have an average height of 190cm (6'3) with a STANDARD deviation of about ± 32cm (about one foot).  
-Due to their impressive advancements in the realm of technology, it seems that the Strillian are unable to die of natural causes, as the nanomachines in their system pick up on any potential threats before quickly nutralizing them, unless they chose not to get any nanomachines, some believe a natural life is a good life and thus choose not to get any.
+Skin: Pitch-black scales with spots on their back of very bright shades of blue and pink. The Strillian have an average height of 190cm (6'3) with a standard deviation of about ± 32cm (about one foot).  
+Due to their impressive advancements in the realm of technology, it seems that the Strillian are unable to die of natural causes, as the nanomachines in their system pick up on any potential threats before quickly nutralizing them, unless they chose not to keep their nanomachines, some believe a natural life is a good life and thus choose to get have them removed, the lifespan of a Strillian without nanomachines is on average 104 years, with a standard deviation of ± 13 years.
 It is also completely possible for them to die, they are not invincible and can still be victims of events such as murder or accidents.
 For a reason that is still unknown they can shift around their organs and body parts, for example, they can move their wings to their arms, or move their stomach to somewhere else inside of their body, it is speculated that this once was a necessity for survival when they were still evolving as an intelligent species.  
 Their blood is a golden color.
 
 ---
-## The Nanomachines
-What makes them special (not biological): nanotechnological implants, allowing them to grow multiple limbs or cover their existing limbs in the nanomachines, allowing them to attach and use an array of modules, including speakers, displays, and even heating elements (so they’re perfect to snuggle with).  
-In the event that it is absolutely necessary, the nanomachines can be tasked by their owner to tear their host apart.
+## Behaviour
+The Strillian are a very curious species and have been observed to show an almost uncanny interest in other lifeforms, trying to understand anything that is sentient and can be communicated with.
+On the topic of communication, due to their relation to nanotechnology, the Strillian don’t necessarily need to communicate normally, instead, they can communicate among themselves using their implants, however, they prefer making small computer-like beeping noises as a way of telling other Strillian “hey, we’re talking”.
+This also comes in handy when trying to start a bond with organisms that are not Strillian, if they listen to a small amount of an organism’s language or speech, the implants will put together an understanding of the language, allowing them to speak said language.
+They have been documented to completely have learned human speech, due to their curious nature they quickly started to learn English, after which most Strillian were satisfied, however, a group of Strillian set out to learn every human language. (Avery, the character I’ll be making with this species, will NOT be a part of this group, people who use this species to make their character will be allowed to choose if their character is part of this group.)
 
 ---
 ## Emotions
@@ -30,8 +32,60 @@ How do they learn these emotions?
 A Strillian starts off with only its standard range of emotions, it is not required for them to learn the "unknown" emotions for them to live a fulfilling life, however, due to their curious nature, at least a third of them tend to eventually gain these emotions during their life as they interact with organisms from a species unlike theirs.
 By observing how other organisms react they can draw connections between emotions, if they for example experience certain events the same way. But it also allows them to learn new emotions, for example, if a Strillian is friends with a human, and the Strillian makes a mistake, causing the human to be angry, then the Strillian will learn from this interaction. After observing certain emotions enough they will gain an understanding of how it works and eventually begin experiencing it themselves as well.
 
-Emotions (on their hands):
-Black 		=> 	Neutral  
+Emotions (on their hands):  
+<dl>
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+
+  <dt>Black</dt>
+  <dd>Neutral</dd>
+</dl>
+
 White 		=> 	Ecstatic, excited  
 Grey 		=> 	Confused  
 Crimson 	=> 	Terrified (ears will also droop)  
@@ -59,11 +113,18 @@ Green		=>	Disgust
 Most Strillian are perfectly fine with their emotions being visible to everyone, but some are not as comfortable with the idea, in which case some choose to cover their hands with large gloves.
 
 ---
-## Behaviour
-The Strillian are a very curious species and have been observed to show an almost uncanny interest in other lifeforms, trying to understand anything that is sentient and can be communicated with.
-On the topic of communication, due to their relation to nanotechnology, the Strillian don’t necessarily need to communicate normally, instead, they can communicate among themselves using their implants, however, they prefer making small computer-like beeping noises as a way of telling other Strillian “hey, we’re talking”.
-This also comes in handy when trying to start a bond with organisms that are not Strillian, if they listen to a small amount of an organism’s language or speech, the implants will put together an understanding of the language, allowing them to speak said language.
-They have been documented to completely have learned human speech, due to their curious nature they quickly started to learn English, after which most Strillian were satisfied, however, a group of Strillian set out to learn every human language. (Avery, the character I’ll be making with this species, will NOT be a part of this group, people who use this species to make their character will be allowed to choose if their character is part of this group.)
+## The Nanomachines
+Back when the Strillian still actively chose to reproduce, young Strillian were given two choices the day they turned eighteen, they could choose to keep the nanomachines they had been given after birth, or they could choose for them to be removed. Due to the machines' useful nature most choose to keep them, but some Strillian believe it is better to live a natural life.  
+The machines normally reside inside of their bodies, but due to the machines' small size, they can come out and any time and cover any body part where a Strillian might need protection, the host however needs to make them do this, they cannot do it on their own, when the machines are covering a part of a Strillian's body, they can also use an array of modules, such as a small heating panel, speakers, or small displays.  
+Something the machines will do on their own is try to patch up any wounds, this will not help a lot however, it will only cover the wound temporarily.   
+They can also clump together and form new extra limbs for the Strillian to use.  
+The nanomachines do not have a battery that lasts forever, when the machines were new, their creators wanted to make central wireless charging centers on Seraph, but they quickly realized this was not a good choice as they realized the next step they would take as a species would be long-ranged space travel.
+So to fix this, in the second version they chose to implement two new features for charging.
+1. To prevent the battery from draining very quickly, they chose to add a way for the machines to charge slightly due to body temperature, this is not a permanent measure though.
+2. In the event that their battery runs too low, they will clump together and form a UV-panel, encouraging their host to go take a walk. 
+3. ADD AN EMERGENCY MEASURE.
 
+existing limbs in the nanomachines, allowing them to attach and use an array of modules, including speakers, displays, and even heating elements (so they’re perfect to snuggle with).  
+In the event that it is absolutely necessary, the nanomachines can be tasked by their owner to tear their host apart.
 
 # The Strillian are an open species made by Bit-Dev#8888
