@@ -14,7 +14,8 @@ Their blood is a golden color.
 
 ---
 ## The Nanomachines
-What makes them special (not biological): nanotechnological implants, allowing them to grow multiple limbs or cover their existing limbs in the nanomachines, allowing them to attach and use an array of modules, including speakers, displays, and even heating elements (so they’re perfect to snuggle with).
+What makes them special (not biological): nanotechnological implants, allowing them to grow multiple limbs or cover their existing limbs in the nanomachines, allowing them to attach and use an array of modules, including speakers, displays, and even heating elements (so they’re perfect to snuggle with).  
+In the event that it is absolutely necessary, the nanomachines can be tasked by their owner to tear their host apart.
 
 ---
 ## Emotions
