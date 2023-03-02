@@ -45,6 +45,7 @@ Soft purple 	=> 	Comfort
 Yellow 		=> 	Happy  
 Orange 		=> 	Determined  
 Green 		=> 	Hungry  
+Soft red => tired
 Rainbow		=>	In love  
 
 Emotions (on their wings):  
