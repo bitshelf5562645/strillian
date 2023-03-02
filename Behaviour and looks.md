@@ -19,8 +19,14 @@ They have pitch-black scales, which can change color if and when they want them 
 The Strillian have an average height of 190cm (6'3) with a standard deviation of about ± 32cm (about one foot), but since this is a standard deviation it is still possible for a Strillian to be taller or shorter.  
 
 ### Mortality
-Due to their impressive advancements in the realm of technology, it seems that the Strillian are unable to die of natural causes, as the nanomachines in their system pick up on any potential threats before quickly nutralizing them, unless they chose not to keep their nanomachines, some believe a natural life is a good life and thus choose to get have them removed, the lifespan of a Strillian without nanomachines is on average 104 years, with a standard deviation of ± 13 years.  
+Due to their impressive advancements in the realm of technology, it seems that the Strillian are unable to die of natural causes, as the nanomachines in their system pick up on any potential threats before quickly nutralizing them, unless they chose not to keep their nanomachines, some believe a natural life is a good life and thus choose to have them removed, the lifespan of a Strillian without nanomachines is on average 104 years, with a standard deviation of ± 13 years.  
 It is also completely possible for them to die, they are not invincible and can still be victims of events such as murder or accidents.
+
+### Maturing
+TEXT 
+
+### Reproduction
+TEXT
 
 ### Odd abilities
 For a reason that is still unknown they can shift around their organs and body parts, for example, they can move their wings to their arms, or move their stomach to somewhere else inside of their body, it is speculated that this once was a necessity for survival when they were still evolving as an intelligent species.  
@@ -143,12 +149,20 @@ Most Strillian are perfectly fine with their emotions being visible to everyone,
 
 ---
 ## The Nanomachines
-Back when the Strillian still actively chose to reproduce, young Strillian were given two choices the day they turned eighteen, they could choose to keep the nanomachines they had been given after birth, or they could choose for them to be removed. Due to the machines' useful nature most choose to keep them, but some Strillian believe it is better to live a natural life.  
-The machines normally reside inside of their bodies, but due to the machines' small size, they can come out and any time and cover any body part where a Strillian might need protection, the host however needs to make them do this, they cannot do it on their own, when the machines are covering a part of a Strillian's body, they can also use an array of modules, such as a small heating panel, speakers, or small displays.  
-Something the machines will do on their own is try to patch up any wounds, this will not help a lot however, it will only cover the wound temporarily.   
-They can also clump together and form new extra limbs for the Strillian to use.  
+### Origin and development
+TEXT.  
+
+### Keeping them or not
+Young Strillian were given two choices the day they turned eighteen (MAYBE CHANGE AGE), they could choose to keep the nanomachines they had been given after birth, or they could choose for them to be removed. Due to the machines' useful nature most choose to keep them, but some Strillian believe it is better to live a natural life.  
+
+### Functions
+The machines normally reside inside of their bodies, but due to the machines' small size, they can come out at any time and cover any body part where a Strillian might need protection, the host however needs to make them do this, they cannot do it on their own, when the machines are covering a part of a Strillian's body, they can also use an array of modules, such as a small heating panel, speakers, small displays, and more.  
+Something the machines **will** do on their own is try to patch up any wounds, this will not help a lot however, since it will only cover the wound temporarily.   
+They can also clump together and form extra limbs for the Strillian to use, but this temporarily disables their ability to protect any body parts.  
+
+### Battery
 The nanomachines do not have a battery that lasts forever, when the machines were new, their creators wanted to make central wireless charging centers on Seraph, but they quickly realized this was not a good choice as they realized the next step they would take as a species would be long-ranged space travel.
-So to fix this, in the second version they chose to implement two new features for charging.
+So to fix this, in the second version, they chose to implement new features for charging and preventing battery drain.
 1. To prevent the battery from draining very quickly, they chose to add a way for the machines to charge slightly due to body temperature, this is not a permanent measure though.
 2. In the event that their battery runs too low, they will clump together and form a UV-panel, encouraging their host to go take a walk. 
 3. ADD AN EMERGENCY MEASURE.
