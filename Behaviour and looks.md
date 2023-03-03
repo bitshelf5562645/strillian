@@ -1,15 +1,52 @@
+<style>
+a {
+  color: inherit !important;
+}
+
+ul ul, ul ul ul {
+  font-size: 1rem !important;
+}
+
+ul {
+  font-size: 1.3rem;
+}
+  </style>
 # Strillian behaviour and physique
 ### We will be going over how the Strillian function and behave as a species in this file
 
 ---
 Make links to specific parts here  
-text  
-text  
-text  
+<ul>
+  <li><a href="#biology-and-physique">Biology and Physique</a></li>
+  <ul>
+    <li><a href="#appearance">Appearance</a></li>
+    <li><a href="#mortality">Mortality</a></li>
+    <li><a href="#maturing">Maturing</a></li>
+    <li><a href="#reproduction">Reproduction</a></li>
+    <li><a href="#odd-abilities">Odd abilities</a></li>
+    <li><a href="#weaknesses-and-shortcomings">Weaknesses and Shortcomings</a></li>
+    <li><a href="#strengths-and-advantages">Strengths and Advantages</a></li>
+  </ul>
+  <li><a href="#behaviour">Behaviour</a></li>
+  <ul>
+    <li><a href="#emotions">Emotions</a></li>
+    <ul>
+      <li><a href="#colors-and-their-emotions-hands">Colors and their emotions: Hands</a></li>
+      <li><a href="#colors-and-their-emotions-wings">Colors and their emotions: Wings</a></li>
+    </ul>
+  </ul>
+  <li><a href="#the-nanomachines">The nanomachines</a></li>
+  <ul>
+    <li><a href="#origin-and-development">Origin and Development</a></li>
+    <li><a href="#keeping-them-or-not">Keeping them or not</a></li>
+    <li><a href="#functions">Functions</a></li>
+    <li><a href="#battery">Battery</a></li>
+  </ul>
+</ul>
 
 ---
 
-## Biology / Physique {#biology}
+## Biology and Physique
 
 ### Appearance
 The Strillian are an anthropomorphic species with body parts similar to those of dragons, boasting not only an extremely versatile and long tail they can use to grab and manipulate objects, but also large gorgeous wings.  
@@ -32,18 +69,18 @@ TEXT
 For a reason that is still unknown they can shift around their organs and body parts, for example, they can move their wings to their arms, or move their stomach to somewhere else inside of their body, it is speculated that this once was a necessity for survival when they were still evolving as an intelligent species.  
 Their blood is a golden color.
 
-### Weaknessess and shortcomings {#weaknesses}
+### Weaknessess and shortcomings
 text  
 text  
 text  
 
-### Strengths and advantages {#strengths}
+### Strengths and advantages
 text  
 text  
 text  
 
 ---
-## Behaviour {#behaviour}
+## Behaviour
 The Strillian are a very curious species and have been observed to show an almost uncanny interest in other lifeforms, trying to understand anything that is sentient and can be communicated with.
 On the topic of communication, due to their relation to nanotechnology, the Strillian don’t necessarily need to communicate normally, instead, they can communicate among themselves using their implants, however, they prefer making small computer-like beeping noises as a way of telling other Strillian “hey, we’re talking”.
 This also comes in handy when trying to start a bond with organisms that are not Strillian, if they listen to a small amount of an organism’s language or speech, the implants will put together an understanding of the language, allowing them to speak said language.
