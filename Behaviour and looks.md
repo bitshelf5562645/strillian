@@ -9,7 +9,7 @@ text
 
 ---
 
-## Biology / Physique
+## Biology / Physique {#biology}
 
 ### Appearance
 The Strillian are an anthropomorphic species with body parts similar to those of dragons, boasting not only an extremely versatile and long tail they can use to grab and manipulate objects, but also large gorgeous wings.  
@@ -32,25 +32,24 @@ TEXT
 For a reason that is still unknown they can shift around their organs and body parts, for example, they can move their wings to their arms, or move their stomach to somewhere else inside of their body, it is speculated that this once was a necessity for survival when they were still evolving as an intelligent species.  
 Their blood is a golden color.
 
-### Weaknessess and shortcomings
+### Weaknessess and shortcomings {#weaknesses}
 text  
 text  
 text  
 
-### Strengths and advantages
+### Strengths and advantages {#strengths}
 text  
 text  
 text  
 
 ---
-## Behaviour
+## Behaviour {#behaviour}
 The Strillian are a very curious species and have been observed to show an almost uncanny interest in other lifeforms, trying to understand anything that is sentient and can be communicated with.
 On the topic of communication, due to their relation to nanotechnology, the Strillian don’t necessarily need to communicate normally, instead, they can communicate among themselves using their implants, however, they prefer making small computer-like beeping noises as a way of telling other Strillian “hey, we’re talking”.
 This also comes in handy when trying to start a bond with organisms that are not Strillian, if they listen to a small amount of an organism’s language or speech, the implants will put together an understanding of the language, allowing them to speak said language.
 They have been documented to completely have learned human speech, due to their curious nature they quickly started to learn English, after which most Strillian were satisfied, however, a group of Strillian set out to learn every human language. (Avery, the character I’ll be making with this species, will NOT be a part of this group, people who use this species to make their character will be allowed to choose if their character is part of this group.)
 
----
-## Emotions 
+### Emotions 
 They have trouble with feeling the following emotions: embarrassment, anger, and disgust, however, they can be learned to experience these emotions.  
 However, for an unknown reason, they can still naturally experience sadness without having to learn this.  
 In addition to this, the scales on their hands represent how they’re currently feeling.
