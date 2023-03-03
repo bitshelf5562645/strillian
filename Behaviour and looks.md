@@ -2,7 +2,7 @@
 ### We will be going over how the Strillian function and behave as a species in this file
 
 ---
-Make links to specific parts here  
+## Content and Links 
 <ul>
   <li><a href="#biology-and-physique">Biology and Physique</a></li>
   <ul>
@@ -16,6 +16,7 @@ Make links to specific parts here
   </ul>
   <li><a href="#behaviour">Behaviour</a></li>
   <ul>
+    <li><a href="#communication">Communication</a></li>
     <li><a href="#emotions">Emotions</a></li>
     <ul>
       <li><a href="#colors-and-their-emotions-hands">Colors and their emotions: Hands</a></li>
@@ -69,6 +70,8 @@ text
 ---
 ## Behaviour
 The Strillian are a very curious species and have been observed to show an almost uncanny interest in other lifeforms, trying to understand anything that is sentient and can be communicated with.
+
+### Communication
 On the topic of communication, due to their relation to nanotechnology, the Strillian don’t necessarily need to communicate normally, instead, they can communicate among themselves using their implants, however, they prefer making small computer-like beeping noises as a way of telling other Strillian “hey, we’re talking”.
 This also comes in handy when trying to start a bond with organisms that are not Strillian, if they listen to a small amount of an organism’s language or speech, the implants will put together an understanding of the language, allowing them to speak said language.
 They have been documented to completely have learned human speech, due to their curious nature they quickly started to learn English, after which most Strillian were satisfied, however, a group of Strillian set out to learn every human language. (Avery, the character I’ll be making with this species, will NOT be a part of this group, people who use this species to make their character will be allowed to choose if their character is part of this group.)
