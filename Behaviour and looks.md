@@ -1,16 +1,3 @@
-<style>
-a {
-  color: inherit !important;
-}
-
-ul ul, ul ul ul {
-  font-size: 1rem !important;
-}
-
-ul {
-  font-size: 1.3rem;
-}
-  </style>
 # Strillian behaviour and physique
 ### We will be going over how the Strillian function and behave as a species in this file
 
