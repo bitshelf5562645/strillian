@@ -11,8 +11,8 @@
     <li><a href="#maturing">Maturing</a></li>
     <li><a href="#reproduction">Reproduction</a></li>
     <li><a href="#peculiar-qualities">Peculiar qualities</a></li>
-    <li><a href="#weaknesses-and-shortcomings">Weaknesses and Shortcomings</a></li>
     <li><a href="#strengths-and-advantages">Strengths and Advantages</a></li>
+    <li><a href="#weaknesses-and-shortcomings">Weaknesses and Shortcomings</a></li>
   </ul>
   <li><a href="#behaviour">Behaviour</a></li>
   <ul>
@@ -27,7 +27,6 @@
 
   <li><a href="#the-nanomachines">The nanomachines</a></li>
   <ul>
-    <li><a href="#origin-and-development">Origin and Development</a></li>
     <li><a href="#keeping-them-or-not">Keeping them or not</a></li>
     <li><a href="#functions">Functions</a></li>
     <li><a href="#battery">Battery</a></li>
@@ -35,11 +34,7 @@
   </ul>
 
   <li><a href="#their-society">Their society</a></li>
-  <ul>
-    <li><a href="#currency">Currency</a></li>
-    <li><a href="#work">Work</a></li>
 
-  </ul>
 </ul>
 
 ---
@@ -67,14 +62,14 @@ Actual explanation soon
 For a reason that is still unknown they can shift around their organs and body parts, for example, they can move their wings to their arms, or move their stomach to somewhere else inside of their body, it is speculated that this once was a necessity for survival when they were still evolving as an intelligent species.  
 Another odd quality they have is the fact that their blood isn't red, it is in fact a golden color, fortunately it isn't real gold though.
 
-### Weaknessess and shortcomings
-text  
-text  
-text  
 
 ### Strengths and advantages
-text  
-text  
+- If stuck, a Strillian can contort its body to escape danger or a tight space.  
+- A strillian with nanomachines cannot die of natural causes.  
+
+### Weaknessess and shortcomings
+- It costs a large amount of energy for them to actually contort their bodies.
+- A Strillian **can** still die due to accidents or wounds.  
 text  
 
 ---
@@ -191,8 +186,6 @@ Most Strillian are perfectly fine with their emotions being visible to everyone,
 
 ---
 ## The Nanomachines
-### Origin and development
-Actual explanation soon.  
 
 ### Keeping them or not
 Young Strillian were given two choices the day they turned eighteen (MAYBE CHANGE AGE), they could choose to keep the nanomachines they had been given after birth, or they could choose for them to be removed. Due to the machines' useful nature most choose to keep them, but some Strillian believe it is better to live a natural life.  
@@ -221,13 +214,8 @@ This is locked behind multiple identification methods, so if a Strillian asks fo
 ---
 
 ## Their society
-Actual explanation soon
-
-### Currency
-Actual explanation soon
-
-### Work
-Actual explanation soon
+The society the Strillian live in could be described as a mix between capitalism and communism.  
+Strillian are provided with a base amount of every month, this sum of money is enough to get them through the month, but they can choose to do some work on the side, which will get them more money to do what they want.
 
 ---
-# The Strillian are an open species made by Bit-Dev#8888
+# The Strillian are an open species made by [BitShelf](https://discordapp.com/users/725463533814284419)
