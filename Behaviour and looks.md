@@ -33,8 +33,13 @@
     <li><a href="#self-destruction">Self Destruction</a></li>
   </ul>
 
+  <li><a href="#seraph">Seraph</a></li>
+  <ul>
+    <li><a href="#the-planet">The planet</a></li>
+    <li><a href="#climate">Climate</a></li>
+    <li><a href="#flora-and-fauna">Flora and fauna</a></li>
   <li><a href="#their-society">Their society</a></li>
-
+  </ul>
 </ul>
 
 ---
@@ -188,7 +193,8 @@ Most Strillian are perfectly fine with their emotions being visible to everyone,
 ## The Nanomachines
 
 ### Keeping them or not
-Young Strillian were given two choices the day they turned eighteen (MAYBE CHANGE AGE), they could choose to keep the nanomachines they had been given after birth, or they could choose for them to be removed. Due to the machines' useful nature most choose to keep them, but some Strillian believe it is better to live a natural life.  
+Young Strillian are given two choices the day they turn 21, they could choose to keep the nanomachines they had been given after birth, or they could choose for them to be removed. Due to the machines' useful nature most choose to keep them, but some Strillian believe it is better to live a natural life.  
+This choice however does nor have a time limit, and they can get their nanomachines removed any day after turning 21  
 
 ### Functions
 The machines normally reside inside of their bodies, but due to the machines' small size, they can come out at any time and cover any body part where a Strillian might need protection, the host however needs to make them do this, they cannot do it on their own, when the machines are covering a part of a Strillian's body, they can also use an array of modules, such as a small heating panel, speakers, small displays, and more.  
@@ -213,7 +219,20 @@ This is locked behind multiple identification methods, so if a Strillian asks fo
 
 ---
 
-## Their society
+## Seraph
+Seraph is the name of the planet where most Strillian come from, it is the planet where they started as a species.  
+It is completely possible for a Strillian to be born on a different planet.
+
+### The planet
+Actual explanation soon
+
+### Climate
+Actual explanation soon
+
+### Flora and fauna
+Actual explanation soon
+
+### Their society
 The society the Strillian live in could be described as a mix between capitalism and communism.  
 Strillian are provided with a base amount of every month, this sum of money is enough to get them through the month, but they can choose to do some work on the side, which will get them more money to do what they want.
 
