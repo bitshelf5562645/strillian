@@ -71,11 +71,12 @@ Another odd quality they have is the fact that their blood isn't red, it is in f
 ### Strengths and advantages
 - If stuck, a Strillian can contort its body to escape danger or a tight space.  
 - A strillian with nanomachines cannot die of natural causes.  
+- Due to their curious and kind nature, the Strillian have become a beloved species among most of the planets they have visited.
 
 ### Weaknessess and shortcomings
 - It costs a large amount of energy for them to actually contort their bodies.
 - A Strillian **can** still die due to accidents or wounds.  
-text  
+- Not every Strillian is as kind as most others are.  
 
 ---
 ## Behaviour
