@@ -20,7 +20,7 @@ text
 ## FAQ
 
 ### Can I use my character for NSFW content?
-Yep, go nuts!
+Yep, go nuts! HOWEVER: Your Strillian HAS TO BE 21 years or older! 21 Is the age a Strillian reaches adulthood and NSFW using an underage Strillian is strictly forbidden!
 
 ### Is my character allowed to already know the normally “unknown” emotions?
 Yep, that’s quite alright, but try to make sure learning said emotions is part of their backstory, a Strillian cannot simply learn these emotions in the blink of an eye, they slowly learn to handle and experience these emotions the older they get and the more they interact with other species.
