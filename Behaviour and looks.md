@@ -240,4 +240,4 @@ The society the Strillian live in could be described as a mix between capitalism
 Strillian are provided with a base amount of every month, this sum of money is enough to get them through the month, but they can choose to do some work on the side, which will get them more money to do what they want.
 
 ---
-# The Strillian are an open species made by [BitShelf](https://discordapp.com/users/725463533814284419)
+# The Strillian are an open species made by [Nova](https://discordapp.com/users/725463533814284419)
